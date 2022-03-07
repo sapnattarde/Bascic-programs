@@ -1,3 +1,5 @@
+# This program is a nested loop program
+
 
 #print upper triangle
 space = 5
@@ -18,4 +20,4 @@ for i in range(5,1,-1):
     print("*", end=" ")
   print() 
   space+=1
-  
+
